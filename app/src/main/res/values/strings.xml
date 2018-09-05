@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sesión 03</string>
+    <string name="exa_parcial">Examen Parcial</string>
+    <string name="exa_final">Examen Final</string>
+    <string name="pep">Prom.Eval.Perm.</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="txtSuNota">Su nota es: </string>
+    <string name="txtLeFalta">Para aprobar le falta: </string>
+</resources>
