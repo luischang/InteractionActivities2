@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sesion03_Resource_Activity.iml" filepath="$PROJECT_DIR$/Sesion03_Resource_Activity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/InteractionActivities2.iml" filepath="$PROJECT_DIR$/.idea/InteractionActivities2.iml" group="InteractionActivities2" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="InteractionActivities2/app" />
     </modules>
   </component>
 </project>
